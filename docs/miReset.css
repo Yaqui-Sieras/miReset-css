@@ -86,8 +86,9 @@ li {
   list-style-type: none;
 }
 
-/* Configuramos anclas suaves */
+/* Configuramos anclas suaves y el tamaño de la fuente */
 html {
+  font-size: 10px;
   scroll-behavior: smooth;
 }
 
